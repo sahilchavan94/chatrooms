@@ -9,7 +9,7 @@ const Navbar = () => {
   },[])
 
   return (
-    <div className='flex justify-between sm:w-[95%] md:[68%] mx-auto mt-4 px-5'>
+    <div className='flex justify-between sm:w-[94.6%] md:[68%] mx-auto mt-4 px-5'>
       <div className="mainname text-main font-semibold text-2xl">
         Chat<span className='text-slate'>rooms</span><span>🤞</span>
       </div>
