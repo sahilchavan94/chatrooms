@@ -13,7 +13,7 @@ Chat view
 
 ## Install and get started 🛠️
 
-You can clone this repository and can run with npm start, ensure you create your own api key instead of using mine.
+You can clone this repository and can run with npm start, ensure you have your own mongo db database, it can be a local db or you can also go with mongo db atlas 
 
 ```bash
 cd project-name
