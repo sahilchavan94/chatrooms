@@ -1,5 +1,5 @@
 
-# Chat rooms application
+# Chat rooms application (Frontend)
 
 Chatrooms is a mern based application that enables you to connect you to get connnected with strangers by connecting through rooms created by you or others
 
