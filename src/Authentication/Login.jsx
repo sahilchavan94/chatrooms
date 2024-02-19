@@ -50,7 +50,6 @@ const Login = () => {
 
     return (
         <div>
-        <div>hello</div>
             <div className='h-[90vh] flex flex-col justify-center overflow-auto'>
                 <button className='bg-main text-slate text-sm px-4 py-2 rounded-md w-fit mx-auto font-semibold' onClick={()=>navigate("/")}>Back to home</button>
                 <div className="head text-2xl font-bold text-slate text-center mt-5 mx-4">
